@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(8, 20, 128);
+}
+nav{
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+background-color: rgb(157, 248, 66);
+
+}
+.menus-container{
+    display: flex;
+    list-style: none;
+}
+.item{
+    padding: 5px;
+}
+
+    .images{
+    margin-left:700px;
+        margin-top:200px;
+    }
+  .top{
+    margin-bottom: 400px;
+    
+  }
+  .top{
+    display: inline-flex;
+
+  }
+
+
+   
+    
+    
+      
